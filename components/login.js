@@ -28,7 +28,7 @@ export default function Login () {
   return(
     <View>
 
-      <Text>login</Text>
+      <Text>Login</Text>
 
     </View>
   )
