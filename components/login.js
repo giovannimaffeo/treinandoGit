@@ -24,19 +24,11 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
-import Login from './components/login'
-
-export default function App () {
+export default function Login () {
   return(
     <View>
 
-      <Text>Hello World</Text>
-
-      <View>
-
-        <Login />
-
-      </View>
+      <Text>login</Text>
 
     </View>
   )
